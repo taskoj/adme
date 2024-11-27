@@ -8,7 +8,7 @@ tags: [Liebe, Partnerschaft, Zeit, Ausstellung, März, 2025]
 author: Arnd
 ---
 
-Ab in eine **Ausstellung**! Dort gehen wir gemeinsam hin. Das wäre mein heutiger Vorschlag.  
+Ab in eine **Ausstellung**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.  
 
 ## Ausstellung
 
