@@ -13,10 +13,9 @@ Ab zum **Wochenmarkt**! Dort gehen wir gemeinsam hin. Klingt das nicht nach eine
 ## Wochenmarkt
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* [Filmforum Duisburg](https://filmforum.de/)
-* [Metropol Düsseldorf](https://filmkunstkinos.de/kinos/metropol/)
-* [Cinemaxx Krefeld](https://www.cinemaxx.de/kinoprogramm/krefeld/)
-* [Primus-Palast](http://primus-palast.de/)
+* [Krefeld](https://service.krefeld.de/wochenmaerkte)
+* [Düsseldorf](https://www.duesseldorf.de/umweltamt/umwelt-und-verbraucherthemen-von-a-z/marktmanagement/wochenmaerkte)
+* [Domplatz Münster](https://geo.stadt-muenster.de/wochenmarkt/)
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 

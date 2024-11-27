@@ -13,10 +13,9 @@ Ab in eine **Ausstellung**! Dort gehen wir gemeinsam hin. Klingt das nicht nach 
 ## Ausstellung
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* [Filmforum Duisburg](https://filmforum.de/)
-* [Metropol Düsseldorf](https://filmkunstkinos.de/kinos/metropol/)
-* [Cinemaxx Krefeld](https://www.cinemaxx.de/kinoprogramm/krefeld/)
-* [Primus-Palast](http://primus-palast.de/)
+* [35Blumen](https://35blumen.org/)
+* [Kunstpalast Düsseldorf](https://www.kunstpalast.de/de/programm/ausstellungen/)
+* [Ausstellungen Duisburg](https://rausgegangen.de/duisburg/kategorie/ausstellung/)
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 
