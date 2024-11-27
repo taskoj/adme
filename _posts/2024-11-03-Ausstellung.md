@@ -4,7 +4,7 @@ title: Ausstellung
 subtitle: Dies ist Türchen Nummer 3. Nur noch 21 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Liebe, Partnerschaft, Zeit, Ausstellung, März, 2025]
+tags: [Qualitytime, Ausstellung, März, 2025]
 author: Arnd
 ---
 

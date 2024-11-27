@@ -4,7 +4,7 @@ title: Wochenmarkt
 subtitle: Dies ist Türchen Nummer 5. Nur noch 19 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Liebe, Partnerschaft, Zeit, Wochenmarkt, Mai, 2025]
+tags: [Qualitytime, Wochenmarkt, Mai, 2025]
 author: Arnd
 ---
 
