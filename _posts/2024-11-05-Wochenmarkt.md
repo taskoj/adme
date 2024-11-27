@@ -8,7 +8,7 @@ tags: [Liebe, Partnerschaft, Zeit, Wochenmarkt, Mai, 2025]
 author: Arnd
 ---
 
-Ab zum Wochenmarkt! Dort gehen wir gemeinsam hin. Das wäre mein heutiger Vorschlag.  
+Ab zum **Wochenmarkt**! Dort gehen wir gemeinsam hin. Das wäre mein heutiger Vorschlag.  
 
 ## Wochenmarkt
 
