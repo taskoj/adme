@@ -22,9 +22,11 @@ Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 
 ## März 2025
 
-Fast noch wichtiger als die Location ist die Zeit. Damit die Auswahl des passenden Termins nicht unfassbar schwer wird, ist diese eingegrenzt auf die 4 Wochenenden des oben genannten Monats. Du hast die Wahl. Wofür entscheidest Du Dich? Gib mir Bescheid!
+Fast noch wichtiger als die Location ist die Zeit. Damit die Auswahl des passenden Termins nicht unfassbar schwer wird, ist diese eingegrenzt auf die 4 Wochenenden des oben genannten Monats. Du hast die Wahl.
 
 1. Wochenende 
 2. Wochenende
 3. Wochenende
 4. Wochenende
+
+Wofür entscheidest Du Dich? Gib mir Bescheid, ich freue mich!
