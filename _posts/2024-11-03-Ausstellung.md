@@ -8,7 +8,7 @@ tags: [Liebe, Partnerschaft, Zeit, Ausstellung, März, 2025]
 author: Arnd
 ---
 
-Ab in die Ausstellung! Dort gehen wir hin. Dr. Sommer sagt dazu: "Die miteinander verbrachte Zeit bietet eine Grundlage für gemeinsame Erfahrungen und baut das Wir-Gefühl weiter aus. Gemeinsam erlebte Momente sind die Bausteine der Paargeschichte und -identität."  
+Ab in eine Ausstellung! Dort gehen wir gemeinsam hin. Das wäre mein heutiger Vorschlag.  
 
 ## Ausstellung
 
