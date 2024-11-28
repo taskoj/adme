@@ -3,7 +3,7 @@ on:
   push: 
   pull_request: 
   schedule: 
-    - cron: '20 7 * * *'
+    - cron: '02 11 * * *'
 jobs:
   build:
     name: Build Jekyll
