@@ -2,8 +2,8 @@ name: Beautiful Jekyll CI
 on: 
   push: 
   pull_request: 
-  schedule: 
-    - cron: '55 12 * * *'
+  #schedule: 
+  #  - cron: '55 12 * * *'
 jobs:
   build:
     name: Build Jekyll
