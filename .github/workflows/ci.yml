@@ -1,5 +1,7 @@
 name: Beautiful Jekyll CI
 on: [push, pull_request]
+  schedule:
+    - cron: '30 5 * * *'
 jobs:
   build:
     name: Build Jekyll
