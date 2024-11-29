@@ -8,13 +8,14 @@ tags: [Qualitytime, Kreativkurs, November, 2025]
 author: Arnd
 ---
 
-Ab zur **Kreativkurs**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
+Ab zum **Kreativkurs**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
 
 ## Kreativkurs
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* [Renesse mit dem Auto](https://maps.app.goo.gl/ePYHpW3ein6g7PZx9)
-* [Emden mit dem Auto](https://maps.app.goo.gl/UJ1BrGAFJwtRyzsX6)
+* [Werkhaus Krefeld](https://werkhaus-krefeld.de/category/wbw/kunst-kultur-kommunikation/)
+* [VHS Krefeld](https://www.vhsprogramm.krefeld.de/programm/kultur-kreativitaet#inhalt)
+* [Forum Krefeld/ Viersen](https://www.forum-krefeld-viersen.de/kategorie/kreativitaet-kochen/kreativitaet/)
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 

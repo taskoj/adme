@@ -13,8 +13,9 @@ Ab zur **Kulinarik**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem 
 ## Kulinarik
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* [Renesse mit dem Auto](https://maps.app.goo.gl/ePYHpW3ein6g7PZx9)
-* [Emden mit dem Auto](https://maps.app.goo.gl/UJ1BrGAFJwtRyzsX6)
+* [Krefeld](https://www.krefeld.de/de/stadtmarketing/kulinarische-fuehrungen/)
+* [Düsseldorf](https://www.visitduesseldorf.de/event/duesseldorf-food-tour-3ca0c78245)
+* [Duisburg](https://duisburg.de/tourismus/stadt_erleben/fuehrungen_und_rundfahrten/kulinarischer-stadtrundgang.php)
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 

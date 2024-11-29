@@ -8,13 +8,14 @@ tags: [Qualitytime, Eislaufen, Dezember, 2025]
 author: Arnd
 ---
 
-Ab zur **Eislaufen**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
+Ab zum **Eislaufen**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
 
 ## Eislaufen
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* [Renesse mit dem Auto](https://maps.app.goo.gl/ePYHpW3ein6g7PZx9)
-* [Emden mit dem Auto](https://maps.app.goo.gl/UJ1BrGAFJwtRyzsX6)
+* [Enni. Moers](https://www.enni.de/freizeit/eislaufen/)
+* [Grefrath](https://eisstadion.de/)
+* [Rheinladnhalle Krefeld](https://www.krefeld.de/de/sport/oeffentliche-laufzeiten-oeffnungszeiten-der-eissporthallen/)
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 

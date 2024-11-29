@@ -1,24 +1,25 @@
 ---
 layout: post
-title: Poetryslam
-subtitle: Dies ist Türchen Nummer 23. Nur noch 1 Tag bis Heiligabend!
+title: Wellnesstag
+subtitle: Dies ist Türchen Nummer 15. Nur noch 9 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Qualitytime, Poetryslam, Oktober, 2026]
+tags: [Qualitytime, Wellnesstag, Februar, 2026]
 author: Arnd
 ---
 
-Ab zur **Poetryslam**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
+Ab zum **Wellnesstag**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
 
-## Poetryslam
+## Wellnesstag
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* [Renesse mit dem Auto](https://maps.app.goo.gl/ePYHpW3ein6g7PZx9)
-* [Emden mit dem Auto](https://maps.app.goo.gl/UJ1BrGAFJwtRyzsX6)
+* [Niederrhein-Therme Duisburg](http://www.niederrhein-therme.de/)
+* [Monte Mare Bedburg](http://www.monte-mare.de/bedburg)
+* [Finlantis Nettetal](http://www.finlantis.de/)
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 
-## Oktober 2026
+## Februar 2026
 
 Fast noch wichtiger als die Location ist die Zeit. Damit die Auswahl des passenden Termins nicht unfassbar schwierig wird, ist diese eingegrenzt auf die 4 Wochenenden des oben genannten Monats. Du hast die Wahl. 
 
