@@ -4,7 +4,7 @@ title: Ausstellung
 subtitle: Dies ist Türchen Nummer 3. Nur noch 21 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Qualitytime, Ausstellung, März, 2025]
+tags: [Qualitytime, Ausstellung, Februar, 2025]
 author: Arnd
 ---
 
@@ -19,9 +19,9 @@ Folgende Locations sind ideal geeignet für unser Vorhaben:
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 
-## März 2025
+## Februar 2025
 
-Fast noch wichtiger als die Location ist die Zeit. Damit die Auswahl des passenden Termins nicht unfassbar schwer wird, ist diese eingegrenzt auf die 4 Wochenenden des oben genannten Monats. Du hast die Wahl.
+Fast noch wichtiger als die Location ist die Zeit. Damit die Auswahl des passenden Termins nicht unfassbar schwierig wird, ist diese eingegrenzt auf die 4 Wochenenden des oben genannten Monats. Du hast die Wahl.
 
 1. Wochenende 
 2. Wochenende

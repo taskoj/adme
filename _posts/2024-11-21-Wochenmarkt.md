@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Wochenmarkt
-subtitle: Dies ist Türchen Nummer 5. Nur noch 19 Tage bis Heiligabend!
+subtitle: Dies ist Türchen Nummer 21. Nur noch 3 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Qualitytime, Wochenmarkt, Mai, 2025]
+tags: [Qualitytime, Wochenmarkt, August, 2026]
 author: Arnd
 ---
 
@@ -19,9 +19,9 @@ Folgende Locations sind ideal geeignet für unser Vorhaben:
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 
-## Mai 2025
+## August 2026
 
-Fast noch wichtiger als die Location ist die Zeit. Damit die Auswahl des passenden Termins nicht unfassbar schwer wird, ist diese eingegrenzt auf die 4 Wochenenden des oben genannten Monats. Du hast die Wahl. 
+Fast noch wichtiger als die Location ist die Zeit. Damit die Auswahl des passenden Termins nicht unfassbar schwierig wird, ist diese eingegrenzt auf die 4 Wochenenden des oben genannten Monats. Du hast die Wahl. 
 
 1. Wochenende 
 2. Wochenende

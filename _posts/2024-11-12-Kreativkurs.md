@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Nordsee
-subtitle: Dies ist Türchen Nummer 8. Nur noch 16 Tage bis Heiligabend!
+title: Kreativkurs
+subtitle: Dies ist Türchen Nummer 12. Nur noch 12 Tage bis Heiligabend! Halbzeit!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Qualitytime, Nordsee, Juli, 2025]
+tags: [Qualitytime, Kreativkurs, November, 2025]
 author: Arnd
 ---
 
-Ab zur **Nordsee**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
+Ab zur **Kreativkurs**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
 
-## Nordsee
+## Kreativkurs
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
 * [Renesse mit dem Auto](https://maps.app.goo.gl/ePYHpW3ein6g7PZx9)
@@ -18,7 +18,7 @@ Folgende Locations sind ideal geeignet für unser Vorhaben:
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 
-## Juli 2025
+## November 2025
 
 Fast noch wichtiger als die Location ist die Zeit. Damit die Auswahl des passenden Termins nicht unfassbar schwierig wird, ist diese eingegrenzt auf die 4 Wochenenden des oben genannten Monats. Du hast die Wahl. 
 
