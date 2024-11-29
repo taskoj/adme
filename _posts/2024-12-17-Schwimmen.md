@@ -13,9 +13,9 @@ Ab zum **Schwimmen**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem 
 ## Schwimmen
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* []()
-* []()
-* []()
+* [Aquapark Oberhausen](https://www.aquapark-oberhausen.com/)
+* [Sportparadies Gelsenkirchen](https://www.sportparadies.de/home)
+* [Bockumer](https://www.krefeld.de/de/sport/schwimmvergnuegen-badezentrum-bockum-im-ueberblick/)
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 

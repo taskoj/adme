@@ -8,16 +8,11 @@ tags: [Qualitytime, Geocaching, Mai, 2026]
 author: Arnd
 ---
 
-Ab zum **Geocaching**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
+Ab zum **Geocaching**! Das machen wir gemeinsam. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.
 
 ## Geocaching
 
-Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* []()
-* []()
-* []()
-
-Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
+Trotz eines Diploms in Geoinformatik habe keinen Plan, wie das geht. Hast Du Lust, das mit mir einmal auszuprobieren? Es gibt ausgiebige Anleitungen unter [https://www.geocaching.com/play](https://www.geocaching.com/play). Was sagst Du dazu? Bist Du dabei? Ich freue mich auf Deine Rückmeldung!
 
 ## Mai 2026
 
