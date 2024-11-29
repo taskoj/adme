@@ -12,4 +12,4 @@ Dr. Sommer sagt: "Die miteinander verbrachte Zeit bietet eine Grundlage für gem
 
 ## Nicks-Konzert
 
-Das Konzert von The Nicks findet statt am 21.12.2024 im Jazzkeller, siehe http://www.the-nicks.de/.
+Das Konzert von The Nicks findet statt am 21.12.2024 im Jazzkeller, siehe [http://www.the-nicks.de/](http://www.the-nicks.de/).
