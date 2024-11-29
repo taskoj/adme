@@ -8,14 +8,15 @@ tags: [Qualitytime, Gartengestaltung, April, 2025]
 author: Arnd
 ---
 
-Ab ins **Gartengestaltung**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.   
+Ab in den **Garten**! Den gestalten wir gemeinsam. Klingt das nicht nach einem tollen Plan? Das jedenfalls wäre mein heutiger Vorschlag. Ich bin gespannt, wie Dir das gefällt.   
 
 ## Gartengestaltung
 
-Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* [Schauspielhaus Düsseldorf](https://www.dhaus.de/)
-* [Theater Krefeld und Mönchengladbach](https://theater-kr-mg.de/)
-* [Theater Duisburg](https://www.theater-duisburg.de/)
+Folgende Ideen könnten wirumsetzen bei unserem Vorhaben: 
+* Alte Bäume kürzen oder raus.
+* Neue Blumen oder Pflanzen anlegen.
+* Gartenmöbel (Kletterturm?) ändern.
+* Alles und noch viel mehr.
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 

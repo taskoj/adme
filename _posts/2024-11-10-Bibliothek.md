@@ -13,8 +13,9 @@ Ab zur **Bibliothek**! Dort gehen wir gemeinsam hin. Klingt das nicht nach einem
 ## Bibliothek
 
 Folgende Locations sind ideal geeignet für unser Vorhaben: 
-* [Renesse mit dem Auto](https://maps.app.goo.gl/ePYHpW3ein6g7PZx9)
-* [Emden mit dem Auto](https://maps.app.goo.gl/UJ1BrGAFJwtRyzsX6)
+* [Mediothek Krefeld](https://www.mediothek-krefeld.de/)
+* [Stadtbibliothek Duisburg](https://www.duisburg.de/microsites/stadtbibliothek/index.php)
+* [Zentralbibliothek Düsseldorf](https://www.duesseldorf.de/stadtbuechereien/standorte/zentralbibliothek)
 
 Was sagt Dir am ehesten zu? Ich freue mich auf Deine Rückmeldung!
 
