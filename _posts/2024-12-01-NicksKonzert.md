@@ -13,3 +13,5 @@ Systemische Paar-Therapeuten sagen: "Die miteinander verbrachte Zeit bietet eine
 ## Nicks-Konzert
 
 Das Konzert von The Nicks findet statt am **Samstag, 21.12.2024**, im Jazzkeller, siehe [http://www.the-nicks.de/](http://www.the-nicks.de/).
+
+Hast Du Lust, kommst Du mit? Das wäre doch ein tolles gemeinsames Erlebnis!
