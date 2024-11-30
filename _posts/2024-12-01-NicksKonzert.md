@@ -8,7 +8,7 @@ tags: [Qualitytime, TheNicks, Dezember, 2024]
 author: Arnd
 ---
 
-Dr. Sommer sagt: "Die miteinander verbrachte Zeit bietet eine Grundlage für gemeinsame Erfahrungen und baut das Wir-Gefühl weiter aus. Gemeinsam erlebte Momente sind die Bausteine der Paargeschichte und -identität." Das ist doch ein toller Gedanke. Und um das mit Leben zu füllen, hier mein Vorschlag: Ab zum **Konzert von The Nicks**! Dort gehen wir gemeinsam hin!
+Systemische Paar-Therapeuten sagen: "Die miteinander verbrachte Zeit bietet eine Grundlage für gemeinsame Erfahrungen und baut das Wir-Gefühl weiter aus. Gemeinsam erlebte Momente sind die Bausteine der Paargeschichte und -identität." Das ist doch ein toller Gedanke. Und um das mit Leben zu füllen, hier mein Vorschlag: Ab zum **Konzert von The Nicks**! Dort gehen wir gemeinsam hin!
 
 ## Nicks-Konzert
 
